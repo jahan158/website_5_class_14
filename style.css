@@ -11,7 +11,7 @@ html, body {
     width: 100%;
 }
 
-#minicircle{
+#minicircle {
     transition: all cubic-bezier(0.19, 1, 0.22, 1) 1s;
     width: 10px;
     height: 10px;
